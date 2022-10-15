@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jamietsadler
+- 👀 Data Scientist/ML Engineer with strong experience applying Statistical and Machine Learning techniques including Deep Learning, Regression, Time Series Analysis and Data Visualisation to a range of business problems across a variety of industries, including the Energy, Petrochemical and Technology sectors, often working at the intersection of Software Engineering, Data Science and Machine Learning.
+- 🌱 Currently learning Scala 
+- 📫 Reach me at jamietsadler@hotmail.co.uk
